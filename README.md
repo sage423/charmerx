@@ -6,6 +6,18 @@ I was the founder and PM. This repo is the product case study: what we bet on, w
 
 ---
 
+## Try it
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sage423/dating-copilot-telegram-bot/blob/main/CharmerX_Demo.ipynb)
+
+1. Get a free Gemini API key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey) (no card, about a minute).
+2. Open the notebook above, choose **Runtime → Run all**, and paste your key when asked.
+3. Upload a dating profile or chat screenshot and get the phase, a read on the situation, and 3 replies.
+
+This is a 2026 rebuild of the core flow. It deliberately uses **one model call** where production used five, which was the main cost fix from the post-mortem below. To run it locally: `pip install -r requirements.txt` then `python charmerx.py`.
+
+---
+
 ## My role
 
 Founder and PM on a core team of 4 (technical co-founder, ML engineer, backend engineer), growing to ~10 with interns and contractors.
@@ -126,6 +138,11 @@ I chose to go deep on enterprise AI at HiLabs instead. It was a prioritisation d
 
 ## About this repo
 
-The original production code and workflows are not public. In 2026 I rebuilt a personal version of V1 on Telegram, with n8n for orchestration and a vision LLM for screenshot parsing, which is where this repo's original name came from.
+The original production code and workflows are not public. What is here:
+
+- `charmerx.py`: the 2026 demo rebuild (Gemini vision, one structured call, Gradio upload UI)
+- `CharmerX_Demo.ipynb`: the same code, ready to run on Colab
+
+Before this, I rebuilt a personal version on Telegram with n8n for orchestration, which is where this repo's original name came from.
 
 *Utkarsh Srivastava, founder and PM, CharmerX (Jan to Jul 2025)*
