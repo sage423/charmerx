@@ -8,7 +8,7 @@ I was the founder and PM. This repo is the product case study: what we bet on, w
 
 ## Try it
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sage423/dating-copilot-telegram-bot/blob/main/CharmerX_Demo.ipynb) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-charmerx__official-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/charmerx_official/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sage423/charmerx/blob/main/CharmerX_Demo.ipynb) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-charmerx__official-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/charmerx_official/)
 
 1. Get a free Gemini API key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey) (no card, about a minute).
 2. Open the notebook above, choose **Runtime → Run all**, and paste your key when asked.
