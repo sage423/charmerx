@@ -8,7 +8,7 @@ I was the founder and PM. This repo is the product case study: what we bet on, w
 
 ## Try it
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sage423/dating-copilot-telegram-bot/blob/main/CharmerX_Demo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sage423/dating-copilot-telegram-bot/blob/main/CharmerX_Demo.ipynb) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-charmerx__official-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/charmerx_official/)
 
 1. Get a free Gemini API key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey) (no card, about a minute).
 2. Open the notebook above, choose **Runtime → Run all**, and paste your key when asked.
@@ -102,7 +102,7 @@ flowchart TD
 - ₹99/month won on conversion. ₹199 had better margin but ~40% lower conversion. We chose growth, which turned out to be margin-negative.
 
 **Acquisition**
-- **Instagram micro-influencers won.** 20 reels, multivariate tested. Best creative: 30s, male presenter, "bro advice" tone, problem-led hook, direct WhatsApp link. ~70% of acquisition.
+- **Instagram micro-influencers won.** 20 reels, multivariate tested. Best creative: 30s, male presenter, "bro advice" tone, problem-led hook, direct WhatsApp link. ~70% of acquisition. The reels are on [@charmerx_official](https://www.instagram.com/charmerx_official/).
 - **Adult ad network test failed.** ~500 clicks and 80% first-message rate, but only ~20 payers and ₹1,000+ CAC per payer. High intent did not mean high trust. Abandoned after one run.
 
 **Use-case discovery**
