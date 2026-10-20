@@ -102,7 +102,14 @@ flowchart TD
 - ₹99/month won on conversion. ₹199 had better margin but ~40% lower conversion. We chose growth, which turned out to be margin-negative.
 
 **Acquisition**
-- **Instagram micro-influencers won.** 20 reels, multivariate tested. Best creative: 30s, male presenter, "bro advice" tone, problem-led hook, direct WhatsApp link. ~70% of acquisition. The reels are on [@charmerx_official](https://www.instagram.com/charmerx_official/).
+- **Instagram micro-influencers won.** 20 reels, multivariate tested. Best creative: 30s, male presenter, "bro advice" tone, problem-led hook, direct WhatsApp link. ~70% of acquisition. Top reels from [@charmerx_official](https://www.instagram.com/charmerx_official/):
+
+  | Reel | Views |
+  |---|---|
+  | [Reel 1](https://www.instagram.com/reel/DJ9iuYLOIPc/) | ~128K |
+  | [Reel 2](https://www.instagram.com/reel/DJe7KuPzRRL/) | ~84K |
+  | [Reel 3](https://www.instagram.com/reel/DIlUQrQu7zN/) | ~70K |
+  | [Reel 4](https://www.instagram.com/reel/DKpOUzQSYZf/) | ~50K |
 - **Adult ad network test failed.** ~500 clicks and 80% first-message rate, but only ~20 payers and ₹1,000+ CAC per payer. High intent did not mean high trust. Abandoned after one run.
 
 **Use-case discovery**
